@@ -1,12 +1,12 @@
 # create empty dictionary
-my_dictionary = {}
+first_dictionary = {}
 # fill dictionary step by step
-my_dictionary['a'] = 'Apple'
-my_dictionary['b'] = 'Ball'
-my_dictionary['c'] = 'Cat'
+first_dictionary['a'] = 'Apple'
+first_dictionary['b'] = 'Ball'
+first_dictionary['c'] = 'Cat'
 
-print my_dictionary
-print my_dictionary['c']
+print first_dictionary
+print first_dictionary['c']
 
 # create dictionary at once
 another_dictionary = {'a': 'Alpha', 'b': 'Bravo', 'c': 'Charlie'}
