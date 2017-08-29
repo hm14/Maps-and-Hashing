@@ -1,7 +1,7 @@
 # create empty dictionary
 my_dictionary = {}
 # fill dictionary step by step
-first_dictionary['a'] = 'Apple'
+my_dictionary['a'] = 'Apple'
 my_dictionary['b'] = 'Ball'
 my_dictionary['c'] = 'Cat'
 
